@@ -1,0 +1,6 @@
+1. md COMMAND IS USED FOR DIRECTORY.
+2. git-a is used to see hidden files.
+3.git usr is used for the first time.
+4.mkdir is used for creating a new file.
+5.cat command is used for opening a file in gitbash.
+6.Git is used as a command prompt, we can give command in the git. As well as we can also used it to create move, delete, or open a file. but as by github it ca be termed as it is a platform where we can push or pull a repository. as well as we can share it in open source platform.
